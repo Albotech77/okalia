@@ -73,7 +73,7 @@ export const Audience: React.FC = () => {
                 <p className="italic text-gray-700 mb-4">
                   "Da quando abbiamo installato Oikália, dormo più tranquilla sapendo che mia madre è assistita e che verrò avvisata in caso di necessità."
                 </p>
-                <p className="font-medium text-gray-900">Francesca, figlia di un'utente</p>
+                <p className="font-medium text-gray-900">Francesca, figlia di un utente</p>
               </div>
               <div className="bg-white p-6 rounded-xl shadow-md">
                 <p className="italic text-gray-700 mb-4">
